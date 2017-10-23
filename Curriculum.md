@@ -133,7 +133,7 @@ Ranked 4 out of 61.
 
 [blogPersonal]: http://pfctelepathy.wordpress.com
 [davidBlog]: http://blog.davidedmundson.co.uk/blog/ktp_0.9
-[e-mail]: mailto://ekaitzzarraga@gmail.com
+[e-mail]: mailto://ekaitz.zarraga@protonmail.com
 [fon]: https://fon.com/
 [irontec]: https://www.irontec.com/
 [ivoz]: https://www.irontec.com/voz-ip/ivoz
