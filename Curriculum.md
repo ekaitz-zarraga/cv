@@ -38,6 +38,19 @@ I practiced martial arts (judo, aikido and karate) for years.
 > Public speaking, Teaching/Mentoring, Creative Problem Solving, Creativity,
 > Documentation, Research, Learning
 
+### Other
+
+#### Talks
+
+- [Bitcoin for anarchists](https://ekaitz-zarraga.gitlab.io/talks/Bitcoin_For_Anarchists/) (1h)
+    - Matiko Auzo Factory (Bilbao), *February 2018*
+    - La Kelo Gaztetxea (Santurtzi), *March 2018*
+
+#### Teaching
+
+- **Programming in Python** (20h), *March 2018*  
+  Data Manager course at [COITIBI](https://www.coitibi.net/inicio)
+
 ---
 
 ## Experience
