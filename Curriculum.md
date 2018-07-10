@@ -48,8 +48,11 @@ I practiced martial arts (judo, aikido and karate) for years.
 
 #### Teaching
 
-- **Programming in Python** (20h), *March 2018*  
-  Data Manager course at [COITIBI](https://www.coitibi.net/inicio)
+- **Python programming** (40h), *March-April 2018*  
+  Data Manager course for engineers at [COITIBI](https://www.coitibi.net/inicio)
+
+- **Python programming** (30h), *April 2018*  
+  Data Manager course for biologists at [Aldalan](http://aldalan.com/)
 
 ---
 
