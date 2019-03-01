@@ -38,31 +38,28 @@ I practiced martial arts (judo, aikido and karate) for years.
 > Public speaking, Teaching/Mentoring, Creative Problem Solving, Creativity,
 > Documentation, Research, Learning
 
-### Other
-
-#### Talks
-
-- [Bitcoin for anarchists](https://ekaitz-zarraga.gitlab.io/talks/Bitcoin_For_Anarchists/) (1h)
-    - Matiko Auzo Factory (Bilbao), *February 2018*
-    - La Kelo Gaztetxea (Santurtzi), *March 2018*
-
-#### Teaching
-
-- **Python programming** (40h), *March-April 2018*  
-  Data Manager course for engineers at [COITIBI](https://www.coitibi.net/inicio)
-
-- **Python programming** (30h), *April 2018*  
-  Data Manager course for biologists at [Aldalan](http://aldalan.com/)
-
 ---
 
 ## Experience
 
-### Founder and R&D Engineer
-[Elenq Technology][elenq], *February 2017 - Current*
+### Technical and strategy advisor
 
-> **Skills:** Research, learning, electronics, social skills, teaching,
-> kicad, electronics design
+[Cultumetría][cultumetria], *September 2018 - Current*
+
+> **Skills:** data-analysis, data-visualization, econometrics, strategy
+
+Partner of Cultumetría as a strategy and technology advisor.
+
+* Strategy and business advice
+* Technology advice
+* Development of tools for internal use
+
+
+### Founder and R&D Engineer
+
+[ElenQ Technology][elenq], *February 2017 - Current*
+
+> **Skills:** Research, learning, social skills, teaching
 
 Founder of the 1-person company ElenQ.
 
@@ -155,3 +152,4 @@ Ranked 4 out of 61.
 [ivoz]: https://www.irontec.com/voz-ip/ivoz
 [elenq]: https://elenq.tech
 [elenq-portfolio]: https://elenq.tech/en/services#portfolio
+[cultumetria]: http://cultumetria.com/
